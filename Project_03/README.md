@@ -1,4 +1,4 @@
-# Faktor Apakah yang Menjual Sebuah Mobil?
+# What Factors Sell a Car?
 
 ## Data:
 
