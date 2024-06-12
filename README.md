@@ -17,3 +17,4 @@ These projects were completed from Tripleten's Data Analyst professional trainin
 | [Project 10: Online Food Store Analysis](Project_10) | Analyze user behavior within startup companies selling food products, focusing on the pathways users follow to reach the purchasing stage. | *pandas*, *matplotlib*, *seaborn*, *scipy*, *numpy*, *plotly*, *math* |
 | [Project 11: Youtube Video Ads Analysis](Project_11) | Trending videos on youtube. | *pandas*, *sqlalchemy*, *tableau*, *ppt* |
 | [Project 12: Model Fitness Analysis](Project_12) | Analyze customer profiles and formulate strategies to enhance customer retention. | *pandas*, *matplotlib*, *seaborn*, *plotly*, *numpy*, *scipy*, *sklearn* |
+| [Final Project: Retail Analysis](Final_Project) | Analyze customer profiles and formulate strategies aimed at enhancing customer retention. | *pandas*, *matplotlib*, *seaborn*, *plotly*, *numpy*, *scipy*, *sklearn*, *warnings* |
